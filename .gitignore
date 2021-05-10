@@ -1,0 +1,13 @@
+/PWRB_mjf_dumps/*.vbproj
+/PWRB_mjf_dumps/*.vbproj.user
+/PWRB_mjf_dumps/My Project/
+/PWRB_mjf_dumps/bin/
+/PWRB_mjf_dumps/Resources/
+/PWRB_mjf_dumps/obj/
+/PWRB_mjf_dumps/*.ico
+/PWRB_mjf_dumps/*.png
+/PWRB_mjf_dumps/*.gif
+/PWRB_mjf_dumps/*.jpg
+/PWRB_mjf_dumps/*.resx
+*.sln
+*.suo
